@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Introduction Page</title>
+</head>
+<body style="background-color:#e6ffff;">
+<div>
+<h1 style="font-family:verdana;"><STRONG>Saving The Ocean</STRONG></h1>
+<nav class="w3-bar w3-black">
+  <a href="file:///E:/Hack%20BI%20Project/HackBIproject.html#blank3" class="w3-button w3-bar-item">page 1</a>
+  <a href="E:\Hack BI Project\page 2.html" class="w3-button w3-bar-item">page 2</a>
+  <a href="E:\Hack BI Project\new 1.html" class="w3-button w3-bar-item">page 3</a>
+ 
+</nav>
+<p style="font-family:verdana;">Ocean pollution is a well known problem that many people seem to forget. Here are the main causes of ocean pollution and the many ways YOU can stop ocean pollution.  <p>
+</div>
+<div id = "introduction">
+<h2><STRONG><Saving The Ocean></STRONG></h2>
+<img src="https://www.worldatlas.com/r/w728-h425-c728x425/upload/d8/4b/09/shutterstock-287424425.jpg"/><br>
+<p>https://www.worldatlas.com/r/w728-h425-c728x425/upload/d8/4b/09/shutterstock-287424425.jpg</p>
+<img src="https://www.logisticsmgmt.com/images/ocean-pollution-image.jpg"/>
+<p>https://www.logisticsmgmt.com/images/ocean-pollution-image.jpg</p>
+
